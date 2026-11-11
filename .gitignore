@@ -10,3 +10,9 @@ target/
 dist/
 build/
 *.log
+
+# reconcile.py 生成物
+diff.csv
+summary.txt
+orders_daily.csv
+payments_daily.csv
